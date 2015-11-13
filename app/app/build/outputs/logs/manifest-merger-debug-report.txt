@@ -1,0 +1,379 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:2:1-243:12
+	package
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:3:5-27
+		INJECTED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:5:5-32
+	android:versionCode
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:2:11-69
+supports-screens
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:7:5-11:39
+	android:largeScreens
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:9:9-36
+	android:smallScreens
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:11:9-36
+	android:normalScreens
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:10:9-37
+	android:anyDensity
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:8:9-34
+uses-sdk
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:13:5-16:16
+	android:targetSdkVersion
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:15:9-37
+		INJECTED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:14:9-34
+		INJECTED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:19:9-52
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:22:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:23:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:25:5-66
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:25:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:26:22-78
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:27:5-77
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:27:22-74
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:28:5-71
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:28:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:29:5-74
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:29:22-71
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:30:5-74
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:30:22-71
+application
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:32:5-241:19
+	android:label
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:36:9-41
+	android:icon
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:35:9-46
+	android:description
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:34:9-54
+	android:theme
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:37:9-51
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:33:9-44
+activity#com.grazerss.DashboardListActivity
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:44:9-55:20
+	android:clearTaskOnLaunch
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:46:13-45
+	android:label
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:49:13-52
+	android:exported
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:48:13-36
+	android:configChanges
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:47:13-72
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:45:13-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:50:13-54:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:51:17-69
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:51:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:53:17-77
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:53:27-74
+activity#com.grazerss.activities.ArticleListActivity
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:56:9-68:20
+	android:clearTaskOnLaunch
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:58:13-45
+	android:label
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:61:13-55
+	android:exported
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:60:13-36
+	android:configChanges
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:59:13-72
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:57:13-71
+activity#com.grazerss.activities.FeedListActivity
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:69:9-74:55
+	android:clearTaskOnLaunch
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:71:13-45
+	android:label
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:74:13-52
+	android:exported
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:73:13-36
+	android:configChanges
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:72:13-72
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:70:13-68
+activity#com.grazerss.activities.ShowArticleActivity
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:75:9-97:20
+	android:label
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:79:13-49
+	android:launchMode
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:80:13-43
+	android:exported
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:78:13-36
+	android:configChanges
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:77:13-72
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:76:13-71
+intent-filter#android.intent.category.DEFAULT+com.grazerss.VIEW
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:81:13-85:29
+action#com.grazerss.VIEW
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:82:17-60
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:82:25-57
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:84:17-76
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:84:27-73
+intent-filter#android.intent.action.SEARCH+android.intent.category.DEFAULT
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:86:13-90:29
+action#android.intent.action.SEARCH
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:87:17-71
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:87:25-68
+activity#com.grazerss.activities.AccountListActivity
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:98:9-103:20
+	android:clearTaskOnLaunch
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:100:13-45
+	android:label
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:102:13-37
+	android:configChanges
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:101:13-72
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:99:13-71
+activity#com.grazerss.feedly.FeedlyLoginActivity
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:105:9-109:20
+	android:label
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:107:13-41
+	android:launchMode
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:108:13-44
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:106:13-67
+activity#com.grazerss.activities.LoginActivity
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:121:9-126:58
+	android:label
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:124:13-42
+	android:launchMode
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:125:13-44
+	android:configChanges
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:123:13-72
+	android:theme
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:126:13-55
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:122:13-65
+activity#com.grazerss.activities.SettingsActivity
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:127:9-130:58
+	android:label
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:129:13-51
+	android:theme
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:130:13-55
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:128:13-68
+activity#com.grazerss.activities.ShowGoogleErrorActivity
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:131:9-135:47
+	android:label
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:134:13-69
+	android:launchMode
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:135:13-44
+	android:configChanges
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:133:13-72
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:132:13-75
+activity#com.grazerss.activities.ShowArticleInfoActivity
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:136:9-140:59
+	android:label
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:139:13-52
+	android:configChanges
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:138:13-72
+	android:theme
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:140:13-56
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:137:13-75
+activity#com.grazerss.activities.ShowMessageActivity
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:141:9-146:59
+	android:process
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:145:13-56
+	android:label
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:144:13-41
+	android:configChanges
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:143:13-72
+	android:theme
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:146:13-56
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:142:13-71
+activity#com.grazerss.activities.ManageFeedActivity
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:147:9-151:59
+	android:label
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:150:13-58
+	android:configChanges
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:149:13-72
+	android:theme
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:151:13-56
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:148:13-70
+activity#com.grazerss.activities.SubscribeFeedActivity
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:152:9-169:20
+	android:label
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:156:13-46
+	android:exported
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:155:13-36
+	android:configChanges
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:154:13-72
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:153:13-73
+intent-filter#android.intent.action.SEND+android.intent.category.DEFAULT
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:157:13-168:29
+action#android.intent.action.SEND
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:158:17-69
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:158:25-66
+data
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:162:17-164:45
+	android:scheme
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:164:21-42
+	android:mimeType
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:163:21-50
+activity#com.grazerss.appwidget.UnreadWidgetPrefActivity
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:170:9-178:20
+	android:label
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:173:13-52
+	android:configChanges
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:172:13-72
+	android:theme
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:174:13-56
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:171:13-75
+intent-filter#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:175:13-177:29
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:176:17-87
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:176:25-84
+activity#com.grazerss.locale.MockEditSettingsActivity
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:179:9-186:20
+	android:label
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:182:13-45
+	android:icon
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:181:13-57
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:180:13-72
+intent-filter#com.twofortyfouram.locale.intent.action.EDIT_SETTING
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:183:13-185:29
+action#com.twofortyfouram.locale.intent.action.EDIT_SETTING
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:184:17-95
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:184:25-92
+receiver#com.grazerss.locale.FireReceiver
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:188:9-195:20
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:188:19-66
+intent-filter#com.grazerss.CANCEL_SYNC+com.grazerss.SYNC+com.grazerss.UP_SYNC+com.twofortyfouram.locale.intent.action.FIRE_SETTING
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:189:13-194:29
+action#com.twofortyfouram.locale.intent.action.FIRE_SETTING
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:190:17-95
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:190:25-92
+action#com.grazerss.SYNC
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:191:17-60
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:191:25-57
+action#com.grazerss.UP_SYNC
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:192:17-63
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:192:25-60
+action#com.grazerss.CANCEL_SYNC
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:193:17-67
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:193:25-64
+receiver#com.grazerss.WakeupAndSynchronizeReceiver
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:196:9-78
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:196:19-75
+receiver#com.grazerss.BootReceiver
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:197:9-203:20
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:197:19-59
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.category.LAUNCHER
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:198:13-202:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:199:17-79
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:199:25-76
+receiver#com.grazerss.PackageChangedReceiver
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:204:9-211:20
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:204:19-69
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REPLACED
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:205:13-210:29
+action#android.intent.action.PACKAGE_REPLACED
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:206:17-81
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:206:25-78
+action#android.intent.action.PACKAGE_ADDED
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:207:17-78
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:207:25-75
+receiver#com.grazerss.appwidget.UnreadWidgetProvider
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:212:9-226:20
+	android:label
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:214:13-51
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:213:13-71
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:215:13-217:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:216:17-84
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:216:25-81
+meta-data#android.appwidget.provider
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:223:13-225:57
+	android:resource
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:225:17-54
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:224:17-58
+provider#com.grazerss.AssetContentProvider
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:233:9-235:57
+	android:authorities
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:235:13-54
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:234:13-61
+service#com.grazerss.SynchronizationService
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:237:9-239:38
+	android:enabled
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:239:13-35
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:238:13-63
+service#com.grazerss.appwidget.UnreadWidgetProvider$UpdateService
+ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:240:9-93
+	android:name
+		ADDED from C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\AndroidManifest.xml:240:18-90

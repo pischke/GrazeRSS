@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/CThorentz/Documents/StudioProjects/GrazeRSS/app/src/main/res/values-large-v11/dimens.xml -->
+    <eat-comment/>
+    <dimen name="article_list_feed_title">15dp</dimen>
+    <dimen name="article_list_snippet">14dp</dimen>
+    <dimen name="article_list_title">18dp</dimen>
+</resources>

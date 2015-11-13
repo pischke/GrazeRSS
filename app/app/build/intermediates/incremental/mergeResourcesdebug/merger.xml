@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res"><file name="bouncing" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\anim\bouncing.xml" qualifiers="" type="anim"/><file name="push_up_in" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\anim\push_up_in.xml" qualifiers="" type="anim"/><file name="push_up_out" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\anim\push_up_out.xml" qualifiers="" type="anim"/><file name="bright_text_dark_focused" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\color\bright_text_dark_focused.xml" qualifiers="" type="color"/><file name="article_header_background_dark" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\article_header_background_dark.xml" qualifiers="" type="drawable"/><file name="article_header_background_thin" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\article_header_background_thin.9.png" qualifiers="" type="drawable"/><file name="badge" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\badge.9.png" qualifiers="" type="drawable"/><file name="btn_camera_arrow_left" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\btn_camera_arrow_left.xml" qualifiers="" type="drawable"/><file name="btn_camera_arrow_left_default" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\btn_camera_arrow_left_default.png" qualifiers="" type="drawable"/><file name="btn_camera_arrow_left_press" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\btn_camera_arrow_left_press.png" qualifiers="" type="drawable"/><file name="btn_camera_arrow_left_selected" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\btn_camera_arrow_left_selected.png" qualifiers="" type="drawable"/><file name="btn_camera_arrow_right" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\btn_camera_arrow_right.xml" qualifiers="" type="drawable"/><file name="btn_camera_arrow_right_default" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\btn_camera_arrow_right_default.png" qualifiers="" type="drawable"/><file name="btn_camera_arrow_right_press" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\btn_camera_arrow_right_press.png" qualifiers="" type="drawable"/><file name="btn_camera_arrow_right_selected" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\btn_camera_arrow_right_selected.png" qualifiers="" type="drawable"/><file name="button_background" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\button_background.xml" qualifiers="" type="drawable"/><file name="count_background" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\count_background.xml" qualifiers="" type="drawable"/><file name="count_background_dark" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\count_background_dark.xml" qualifiers="" type="drawable"/><file name="count_list_item" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\count_list_item.xml" qualifiers="" type="drawable"/><file name="count_list_item_dark" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\count_list_item_dark.xml" qualifiers="" type="drawable"/><file name="custom_button" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\custom_button.xml" qualifiers="" type="drawable"/><file name="discovered_feed_background" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\discovered_feed_background.xml" qualifiers="" type="drawable"/><file name="feed_discovery_results_background" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\feed_discovery_results_background.xml" qualifiers="" type="drawable"/><file name="focused_application_background" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\focused_application_background.9.png" qualifiers="" type="drawable"/><file name="gen_app_icon" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\gen_app_icon.png" qualifiers="" type="drawable"/><file name="gen_article_changed_indicator" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\gen_article_changed_indicator.png" qualifiers="" type="drawable"/><file name="gen_auto_action_bar_newsrob_icon" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\gen_auto_action_bar_newsrob_icon.png" qualifiers="" type="drawable"/><file name="gen_auto_app_icon" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\gen_auto_app_icon.png" qualifiers="" type="drawable"/><file name="gen_auto_notification_icon" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\gen_auto_notification_icon.png" qualifiers="" type="drawable"/><file name="gen_auto_notification_sync_problem" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\gen_auto_notification_sync_problem.png" qualifiers="" type="drawable"/><file name="gen_background" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\gen_background.png" qualifiers="" type="drawable"/><file name="gen_logo_small_actionbar" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\gen_logo_small_actionbar.png" qualifiers="" type="drawable"/><file name="gen_m_downloaded_error_feed" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\gen_m_downloaded_error_feed.png" qualifiers="" type="drawable"/><file name="gen_m_downloaded_error_headers" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\gen_m_downloaded_error_headers.png" qualifiers="" type="drawable"/><file name="gen_m_downloaded_error_web" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\gen_m_downloaded_error_web.png" qualifiers="" type="drawable"/><file name="gen_m_downloaded_no_feed" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\gen_m_downloaded_no_feed.png" qualifiers="" type="drawable"/><file name="gen_m_downloaded_no_headers" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\gen_m_downloaded_no_headers.png" qualifiers="" type="drawable"/><file name="gen_m_downloaded_no_web" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\gen_m_downloaded_no_web.png" qualifiers="" type="drawable"/><file name="gen_m_downloaded_yes_feed" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\gen_m_downloaded_yes_feed.png" qualifiers="" type="drawable"/><file name="gen_m_downloaded_yes_headers" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\gen_m_downloaded_yes_headers.png" qualifiers="" type="drawable"/><file name="gen_m_downloaded_yes_web" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\gen_m_downloaded_yes_web.png" qualifiers="" type="drawable"/><file name="gen_toolbar_icon_hide" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\gen_toolbar_icon_hide.png" qualifiers="" type="drawable"/><file name="gen_toolbar_icon_like" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\gen_toolbar_icon_like.png" qualifiers="" type="drawable"/><file name="gen_toolbar_icon_mark_all_read" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\gen_toolbar_icon_mark_all_read.png" qualifiers="" type="drawable"/><file name="gen_toolbar_icon_show" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\gen_toolbar_icon_show.png" qualifiers="" type="drawable"/><file name="gen_toolbar_icon_show_with_pinned" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\gen_toolbar_icon_show_with_pinned.png" qualifiers="" type="drawable"/><file name="gen_toolbar_icon_sort_order_ascending" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\gen_toolbar_icon_sort_order_ascending.png" qualifiers="" type="drawable"/><file name="gen_toolbar_icon_sort_order_descending" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\gen_toolbar_icon_sort_order_descending.png" qualifiers="" type="drawable"/><file name="gen_toolbar_icon_sync" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\gen_toolbar_icon_sync.png" qualifiers="" type="drawable"/><file name="gen_zoom_in" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\gen_zoom_in.png" qualifiers="" type="drawable"/><file name="gen_zoom_out" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\gen_zoom_out.png" qualifiers="" type="drawable"/><file name="grazerss_logo_32x32" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\grazerss_logo_32x32.png" qualifiers="" type="drawable"/><file name="label_background" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\label_background.xml" qualifiers="" type="drawable"/><file name="label_background_dark" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\label_background_dark.xml" qualifiers="" type="drawable"/><file name="list_header_background" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\list_header_background.xml" qualifiers="" type="drawable"/><file name="list_header_background_dark" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\list_header_background_dark.xml" qualifiers="" type="drawable"/><file name="panel_background" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\panel_background.xml" qualifiers="" type="drawable"/><file name="pinned_indicator" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\pinned_indicator.xml" qualifiers="" type="drawable"/><file name="pinned_indicator_dark" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\pinned_indicator_dark.xml" qualifiers="" type="drawable"/><file name="pressed_application_background" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\pressed_application_background.9.png" qualifiers="" type="drawable"/><file name="progress_report_background" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\progress_report_background.xml" qualifiers="" type="drawable"/><file name="progress_small" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\progress_small.xml" qualifiers="" type="drawable"/><file name="progress_small_white" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\progress_small_white.xml" qualifiers="" type="drawable"/><file name="read_indicator" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\read_indicator.xml" qualifiers="" type="drawable"/><file name="read_indicator_dark" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\read_indicator_dark.xml" qualifiers="" type="drawable"/><file name="read_indicator_invisible" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\read_indicator_invisible.xml" qualifiers="" type="drawable"/><file name="selector" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\selector.xml" qualifiers="" type="drawable"/><file name="title_button" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\title_button.xml" qualifiers="" type="drawable"/><file name="title_preview_background" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\title_preview_background.xml" qualifiers="" type="drawable"/><file name="widget_label" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable\widget_label.xml" qualifiers="" type="drawable"/><file name="badge" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\badge.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_bg_pressed" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\btn_bg_pressed.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_bg_selected" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\btn_bg_selected.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_camera_arrow_left_default" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\btn_camera_arrow_left_default.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_camera_arrow_left_press" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\btn_camera_arrow_left_press.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_camera_arrow_left_selected" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\btn_camera_arrow_left_selected.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_camera_arrow_right_default" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\btn_camera_arrow_right_default.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_camera_arrow_right_press" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\btn_camera_arrow_right_press.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_camera_arrow_right_selected" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\btn_camera_arrow_right_selected.png" qualifiers="hdpi-v4" type="drawable"/><file name="focused_application_background" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\focused_application_background.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="gen_app_icon" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\gen_app_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="gen_arrow_up" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\gen_arrow_up.png" qualifiers="hdpi-v4" type="drawable"/><file name="gen_auto_app_icon" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\gen_auto_app_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="gen_auto_notification_icon" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\gen_auto_notification_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="gen_auto_notification_sync_problem" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\gen_auto_notification_sync_problem.png" qualifiers="hdpi-v4" type="drawable"/><file name="gen_background" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\gen_background.png" qualifiers="hdpi-v4" type="drawable"/><file name="gen_logo_small_actionbar" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\gen_logo_small_actionbar.png" qualifiers="hdpi-v4" type="drawable"/><file name="gen_m_downloaded_error_feed" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\gen_m_downloaded_error_feed.png" qualifiers="hdpi-v4" type="drawable"/><file name="gen_m_downloaded_error_headers" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\gen_m_downloaded_error_headers.png" qualifiers="hdpi-v4" type="drawable"/><file name="gen_m_downloaded_error_web" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\gen_m_downloaded_error_web.png" qualifiers="hdpi-v4" type="drawable"/><file name="gen_m_downloaded_no_feed" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\gen_m_downloaded_no_feed.png" qualifiers="hdpi-v4" type="drawable"/><file name="gen_m_downloaded_no_headers" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\gen_m_downloaded_no_headers.png" qualifiers="hdpi-v4" type="drawable"/><file name="gen_m_downloaded_no_web" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\gen_m_downloaded_no_web.png" qualifiers="hdpi-v4" type="drawable"/><file name="gen_m_downloaded_yes_feed" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\gen_m_downloaded_yes_feed.png" qualifiers="hdpi-v4" type="drawable"/><file name="gen_m_downloaded_yes_headers" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\gen_m_downloaded_yes_headers.png" qualifiers="hdpi-v4" type="drawable"/><file name="gen_m_downloaded_yes_web" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\gen_m_downloaded_yes_web.png" qualifiers="hdpi-v4" type="drawable"/><file name="gen_toolbar_icon_hide" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\gen_toolbar_icon_hide.png" qualifiers="hdpi-v4" type="drawable"/><file name="gen_toolbar_icon_like" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\gen_toolbar_icon_like.png" qualifiers="hdpi-v4" type="drawable"/><file name="gen_toolbar_icon_mark_all_read" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\gen_toolbar_icon_mark_all_read.png" qualifiers="hdpi-v4" type="drawable"/><file name="gen_toolbar_icon_show" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\gen_toolbar_icon_show.png" qualifiers="hdpi-v4" type="drawable"/><file name="gen_toolbar_icon_show_with_pinned" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\gen_toolbar_icon_show_with_pinned.png" qualifiers="hdpi-v4" type="drawable"/><file name="gen_toolbar_icon_sort_order_ascending" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\gen_toolbar_icon_sort_order_ascending.png" qualifiers="hdpi-v4" type="drawable"/><file name="gen_toolbar_icon_sort_order_descending" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\gen_toolbar_icon_sort_order_descending.png" qualifiers="hdpi-v4" type="drawable"/><file name="gen_toolbar_icon_sync" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\gen_toolbar_icon_sync.png" qualifiers="hdpi-v4" type="drawable"/><file name="spinner_black_16" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\spinner_black_16.png" qualifiers="hdpi-v4" type="drawable"/><file name="spinner_white_16" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-hdpi-v4\spinner_white_16.png" qualifiers="hdpi-v4" type="drawable"/><file name="btn_camera_arrow_left_default" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-mdpi-v4\btn_camera_arrow_left_default.png" qualifiers="mdpi-v4" type="drawable"/><file name="btn_camera_arrow_left_press" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-mdpi-v4\btn_camera_arrow_left_press.png" qualifiers="mdpi-v4" type="drawable"/><file name="btn_camera_arrow_left_selected" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-mdpi-v4\btn_camera_arrow_left_selected.png" qualifiers="mdpi-v4" type="drawable"/><file name="btn_camera_arrow_right_default" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-mdpi-v4\btn_camera_arrow_right_default.png" qualifiers="mdpi-v4" type="drawable"/><file name="btn_camera_arrow_right_press" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-mdpi-v4\btn_camera_arrow_right_press.png" qualifiers="mdpi-v4" type="drawable"/><file name="btn_camera_arrow_right_selected" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-mdpi-v4\btn_camera_arrow_right_selected.png" qualifiers="mdpi-v4" type="drawable"/><file name="spinner_black_16" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-mdpi-v4\spinner_black_16.png" qualifiers="mdpi-v4" type="drawable"/><file name="spinner_white_16" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\drawable-mdpi-v4\spinner_white_16.png" qualifiers="mdpi-v4" type="drawable"/><file name="account_list" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\layout\account_list.xml" qualifiers="" type="layout"/><file name="account_row" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\layout\account_row.xml" qualifiers="" type="layout"/><file name="ad" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\layout\ad.xml" qualifiers="" type="layout"/><file name="article_row_old" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\layout\article_row_old.xml" qualifiers="" type="layout"/><file name="article_states" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\layout\article_states.xml" qualifiers="" type="layout"/><file name="configure_unread_widget" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\layout\configure_unread_widget.xml" qualifiers="" type="layout"/><file name="control_panel" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\layout\control_panel.xml" qualifiers="" type="layout"/><file name="dashboard_list" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\layout\dashboard_list.xml" qualifiers="" type="layout"/><file name="dashboard_list_row" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\layout\dashboard_list_row.xml" qualifiers="" type="layout"/><file name="discovered_feed" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\layout\discovered_feed.xml" qualifiers="" type="layout"/><file name="feedly_login" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\layout\feedly_login.xml" qualifiers="" type="layout"/><file name="in_progress_notification" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\layout\in_progress_notification.xml" qualifiers="" type="layout"/><file name="login" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\layout\login.xml" qualifiers="" type="layout"/><file name="manage_feed" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\layout\manage_feed.xml" qualifiers="" type="layout"/><file name="rich_article_row" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\layout\rich_article_row.xml" qualifiers="" type="layout"/><file name="show_article" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\layout\show_article.xml" qualifiers="" type="layout"/><file name="show_article_info" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\layout\show_article_info.xml" qualifiers="" type="layout"/><file name="show_google_error" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\layout\show_google_error.xml" qualifiers="" type="layout"/><file name="show_message" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\layout\show_message.xml" qualifiers="" type="layout"/><file name="subscribe_feed" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\layout\subscribe_feed.xml" qualifiers="" type="layout"/><file name="text_view" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\layout\text_view.xml" qualifiers="" type="layout"/><file name="unread_widget" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\layout\unread_widget.xml" qualifiers="" type="layout"/><file name="unread_widget" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\layout-land\unread_widget.xml" qualifiers="land" type="layout"/><file name="note_entered_but_not_submitted" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\raw\note_entered_but_not_submitted.html" qualifiers="" type="raw"/><file name="note_submitted_but_not_yet_removed" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\raw\note_submitted_but_not_yet_removed.html" qualifiers="" type="raw"/><file path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\values\arrays.xml" qualifiers=""><string-array name="sync_options_values">
+    <item>yes</item>
+    <item>no</item>
+    <item>wifi-only</item>
+  </string-array><string-array name="settings_plugins_labels">
+    <item>Always On</item>
+    <item>On Demand</item>
+    <item>Off</item>
+  </string-array><string-array name="storage_provider_values">
+    <item>phone</item>
+    <item>sdcard</item>
+  </string-array><string-array name="settings_ui_theme_pref_values">
+    <item>16973836</item>
+    <item>16973832</item>
+  </string-array><string-array name="service_provider_labels">
+    <item>NewsBlur</item>
+    <item>The Old Reader</item>
+    <item>Feedly</item>
+    </string-array><string-array name="text_size_values">
+    <item>SMALLEST</item>
+    <item>SMALLER</item>
+    <item>NORMAL</item>
+    <item>LARGER</item>
+    <item>LARGEST</item>
+  </string-array><string-array name="settings_ui_theme_labels">
+    <item>Light \n(High Contrast)</item>
+    <item>Dark \n(Night Time Reading)</item>
+  </string-array><string-array name="service_provider_values">
+    <item>com.grazerss.NewsBlurBackendProvider</item>
+    <item>com.grazerss.oldreader.OldReaderBackendProvider</item>
+    <item>com.grazerss.feedly.FeedlyBackendProvider</item>
+    </string-array><string-array name="settings_mobilizer_values">
+    <item>gwt</item>
+    <item>instapaper</item>
+    <item>readability</item>
+  </string-array><string-array name="interval_labels">
+    <item>Every 30 minutes</item>
+    <item>Every hour</item>
+    <item>Every other hour</item>
+    <item>Every four hours</item>
+    <item>Every 12 hours</item>
+    <item>Once a day</item>
+    <item>Once a week</item>
+    <item>Once a month</item>
+  </string-array><string-array name="storage_provider_labels">
+    <item>Local</item>
+    <item>SD Card</item>
+  </string-array><string-array name="download_prefs">
+    <item>Default (see Settings)</item>
+	<item>Articles</item> 
+    <item>Articles + Images</item>
+    <item>Articles + Images + Simplified Web Page</item>
+	<item>Articles + Images + Web Page</item>
+  </string-array><string-array name="settings_ui_theme_pref_labels">
+    <item>Light</item>
+    <item>Black</item>
+  </string-array><string-array name="ui_mark_all_read_confirmation_threshold_values">
+    <item>0</item>
+    <item>5</item>
+    <item>15</item>
+    <item>50</item>
+    <item>100</item>
+    <item>200</item>
+  </string-array><string-array name="keep_values">
+    <item>0</item>
+    <item>5</item>
+    <item>20</item>
+    <item>50</item>
+    <item>100</item>
+    <item>200</item>
+  </string-array><string-array name="settings_ui_action_bar_labels">
+    <item>Top</item>
+    <item>Bottom</item>
+    <item>Gone</item>
+  </string-array><string-array name="settings_mobilizer_labels">
+    <item>Google Wireless Transcoder</item>
+    <item>Instapaper</item>
+<!--     <item>Instapaper\n(Integration Provided \"As Is\". \nPlease don\'t report bugs.\nThanks.)</item> -->
+    <item>Readability</item>
+  </string-array><string-array name="settings_ui_theme_values">
+    <item>Light</item>
+    <item>Dark</item>
+  </string-array><string-array name="global_download_pref_values">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+ <!--    <item>4</item>-->
+  </string-array><string-array name="text_size_labels">
+    <item>Tiny</item>
+    <item>Small</item>
+    <item>Normal</item>
+    <item>Large</item>
+    <item>Huge</item>
+  </string-array><string-array name="sync_options_labels">
+    <item>Enabled</item>
+    <item>Disabled</item>
+    <item>WiFi-Only</item>
+  </string-array><string-array name="interval_values_minutes">
+    <item>30</item>
+    <item>60</item>
+    <item>120</item>
+    <item>240</item>
+    <item>720</item>
+    <item>1440</item>
+    <item>10080</item>
+    <item>43200</item>
+  </string-array><string-array name="settings_ui_action_bar_values">
+    <item>top</item>
+    <item>bottom</item>
+    <item>gone</item>
+  </string-array><string-array name="ui_mark_all_read_confirmation_threshold_labels">
+    <item>Always</item>
+    <item>5</item>
+    <item>15</item>
+    <item>50</item>
+    <item>100</item>
+    <item>200</item>
+  </string-array><string-array name="keep_labels">
+    <item>none</item>
+    <item>5</item>
+    <item>20</item>
+    <item>50</item>
+    <item>100</item>
+    <item>200</item>
+  </string-array><string-array name="storage_capacity_labels">
+    <item>100</item>
+    <item>150</item>
+    <item>250</item>
+    <item>500</item>
+    <item>1000</item>
+    <item>2000\n(slower)</item>
+  </string-array><string-array name="sync_type_values">
+    <item>all_articles</item>
+    <item>unread_articles_only</item>
+  </string-array><string-array name="display_prefs">
+    <item>Default (As Download Pref)</item>
+    <item>Display Feed</item>
+    <item>Display Web Page</item>
+  </string-array><string-array name="sync_type_labels">
+    <item>Keep And Sync:\nAll Articles</item>
+    <item>Keep And Sync:\nUnread Articles Only</item>
+  </string-array><string-array name="settings_plugins_values">
+    <item>ON</item>
+    <item>ON_DEMAND</item>
+    <item>OFF</item>
+  </string-array><string-array name="storage_capacity_values">
+    <item>100</item>
+    <item>150</item>
+    <item>250</item>
+    <item>500</item>
+    <item>1000</item>
+    <item>2000</item>
+  </string-array><string-array name="global_download_pref_labels">
+	<item>Articles \n (Fastest &amp; easiest on the battery)</item> 
+    <item>Articles + Images</item>
+    <item>Articles + Images + Simplified Web Page</item>
+	<!-- <item>Articles + Images + Web Page\n(Slowest\nHandle with care\nMay eat battery)</item> -->
+  </string-array></file><file path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="com.admob.android.ads.AdView">
+		<attr format="boolean" name="testing"/>
+		<attr format="color" name="backgroundColor"/>
+		<attr format="color" name="textColor"/>
+		<attr format="string" name="keywords"/>
+		<attr format="integer" name="refreshInterval"/>
+		<attr format="boolean" name="isGoneWithoutAd"/>
+	</declare-styleable><declare-styleable name="com.grazerss.Preference">
+		<attr format="string" name="x"/>
+	</declare-styleable><declare-styleable name="com.grazerss.Gradient">
+		<attr format="color" name="startColor"/>
+		<attr format="color" name="endColor"/>
+	</declare-styleable><declare-styleable name="com.grazerss.List">
+		<attr format="color" name="lightTextColor"/>
+		<attr format="color" name="webViewBackgroundColorLight"/>
+		<attr format="color" name="articleHeaderTextColor"/>
+		<attr format="color" name="articleSnippetTextColor"/>
+		<attr format="color" name="sharedByTextColor"/>
+		<attr format="color" name="feedTitleTextColor"/>
+		<attr format="color" name="controlPanelDividerColor"/>
+
+		<attr format="color" name="controlPanelBottomDividerColor"/>
+
+		<attr format="color" name="dividerColor"/>
+		<attr format="reference|color" name="countBackground"/>
+	</declare-styleable></file><file path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\values\colors.xml" qualifiers=""><color name="article_unread_text">#f222</color><color name="article_unread_background">#fff</color><color name="hint_background_color">#ffa500</color><color name="item_count_text_color">#fccc</color><color name="article_read_background">#ddd</color><color name="article_read_text">#f777</color><color name="title_separator">#40ffffff</color><color name="selection_feedback">#64ffff00</color><color name="content_button_background_enabled">#fabf</color><color name="item_title_text_color">#f000</color><color name="hint_text_color">#ffffff</color><color name="item_count_background">#f444</color></file><file path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\values\dimens.xml" qualifiers=""><dimen name="article_list_feed_title">13dp</dimen><dimen name="article_list_title">16dp</dimen><dimen name="article_list_snippet">12dp</dimen></file><file path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\values\ids.xml" qualifiers=""><item name="view_position" type="id"/></file><file path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\values\sql.xml" qualifiers=""><string name="sql_select_next_articles_to_fetch">
+SELECT
+  ATOM_ID 
+FROM
+  temp_ids_READ
+LIMIT 
+</string><string name="sql_articles_to_download">
+SELECT\n
+  _id
+FROM\n
+  entries\n
+WHERE\n
+  downloaded = 0 AND (\n
+    read_state &lt; 1 OR\n
+    starred_state > 0 OR\n
+    entries.type = \"N\")\n
+</string><string name="sql_mark_all_read_label">
+UPDATE\n
+  entries\n
+SET\n
+  read_state = 1, \n
+  read_state_pending = read_state_pending * -1 + 1\n -- END-OF-UPDATE\n
+WHERE\n
+  read_state = 0 AND\n
+  INSERTED_AT > ? AND\n -- D_L --\n
+  rowid IN \n
+  (SELECT \n
+     entries.rowid\n
+   FROM \n
+    entries\n
+\n
+   -- feeds-needed\n
+   ,feeds\n
+   -- feeds-needed-end\n
+\n   
+    -- labels-mark\n
+    ,entry_label_associations as elas,\n
+    labels\n
+    -- labels-mark-end\n
+\n
+   WHERE\n
+   entries.read_state = 0\n
+   AND entries.starred_state > ?\n
+   AND entries.friends_shared_state > ? \n
+\n
+   -- feeds-needed\n
+   AND feeds._id = entries.feed_id\n
+   -- feeds-needed-end\n
+\n   
+ 
+   -- feeds-mark\n
+   AND feeds._id = ?\n
+   -- feeds-mark-end\n
+\n
+   -- notification-feeds-mark\n
+   AND feeds.NOTIFICATION > 0\n
+    -- notification-feeds-mark-end\n
+\n   
+   -- labels-mark\n
+   AND (lower(labels.name) = ? \n
+   AND entries._id = elas.ENTRY_ID AND  elas.LABEL_ID = labels._id)\n
+   -- labels-mark-end \n
+   --LIMIT-- 
+\n)
+</string><string name="sql_content_cursor_query">
+SELECT \n
+  entries._id,\n
+  entries.ATOM_ID,\n
+  entries.ALTERNATE_URL,\n
+  entries.CONTENT,\n
+  entries.CONTENT_TYPE,\n
+  entries.CONTENT_URL,\n
+  entries.TITLE,\n
+  feeds.title  as derived_feed_title,\n
+  feeds.DOWNLOAD_PREF,\n
+  feeds.DISPLAY_PREF,\n
+  entries.FEED_ID,\n
+  entries.READ_STATE,\n
+  entries.READ_STATE_PENDING,\n
+  entries.STARRED_STATE,\n
+  entries.STARRED_STATE_PENDING,\n
+  entries.LIKED_STATE,\n
+  entries.LIKED_STATE_PENDING,\n
+  entries.SHARED_STATE,\n
+  entries.SHARED_STATE_PENDING,\n
+  entries.PINNED_STATE_PENDING,\n
+  entries.UPDATED_UTC,\n
+  entries.DOWNLOADED,\n
+  entries.ERROR\n,
+  entries.ENTRY_HASH,\n
+  feeds.JS_ENABLED\n,
+  feeds.FTW_ENABLED\n,
+  entries.SHARED_BY_FRIEND\n,
+  entries.NOTE\n,
+  entries.SNIPPET\n
+FROM\n
+  feeds,\n
+  entries\n
+  -- labels-mark\n
+  ,entry_label_associations as elas,\n
+  labels\n
+  -- labels-mark-end\n
+WHERE
+   read_state &lt; ?\n
+   AND entries.INSERTED_AT > ?\n
+   AND feeds._id = entries.feed_id\n
+   AND entries.starred_state > ?\n
+   AND entries.friends_shared_state > ? \n
+ 
+\n
+   -- feeds-mark\n
+   AND feeds._id = ?\n
+   -- feeds-mark-end\n
+\n
+   -- notification-feeds-mark\n
+   AND feeds.NOTIFICATION > 0\n
+   -- notification-feeds-mark-end\n
+\n
+   -- labels-mark\n
+   AND (lower(labels.name) = ? \n
+   AND entries._id = elas.ENTRY_ID AND  elas.LABEL_ID = labels._id)\n
+   -- labels-mark-end \n
+  \n
+ORDER BY\n
+  entries.UPDATED_UTC 
+</string><string name="sql_create_dashboard_view">
+CREATE VIEW\n
+  dashboard_view\n
+AS\n
+  SELECT 
+   _id,
+   ord,
+   SUM(read_freq)   AS sum_read_freq,
+   SUM(unread_freq) AS sum_unread_freq,
+   SUM(read_freq+unread_freq)  AS sum_freq
+
+   FROM(
+
+     SELECT
+       lower(labels.name) AS _id,
+       50 AS ord,
+	   COUNT(*) AS read_freq, 
+	   0 AS unread_freq
+
+     FROM
+       entries,
+       entry_label_associations AS elas,
+       labels
+
+     WHERE
+       entries.read_state = 1
+       AND entries._id = elas.entry_id 
+       AND elas.label_id = labels._id
+
+     GROUP BY
+       labels._id
+
+   UNION
+
+     SELECT
+       lower(labels.name) AS _id,
+       50 AS ord,
+	   0 AS read_freq, 
+	   COUNT(*) AS unread_freq
+
+     FROM
+       entries,
+       entry_label_associations AS elas,
+       labels
+
+     WHERE
+       entries.read_state &lt; 1
+       AND entries._id = elas.entry_id 
+       AND elas.label_id = labels._id
+       AND lower(labels.name) &lt;> \"pinned\" 
+
+     GROUP BY
+       labels._id\n
+---\n
+   
+   UNION
+
+     SELECT
+       \"all articles\" AS _id,
+	    -100 AS ord,
+	   COUNT(*) AS read_freq, 
+	   0 AS unread_freq
+	
+	    FROM
+	      entries
+
+        WHERE
+          entries.read_state = 1
+
+    UNION
+
+      SELECT
+        \"all articles\" AS _id,
+	    -100 AS ord,
+	    0 AS read_freq, 
+	    COUNT(*) AS unread_freq
+	
+	    FROM
+	      entries
+
+        WHERE
+          entries.read_state &lt; 1\n
+          
+          
+---\n
+   UNION 
+
+     SELECT
+       \"my recently starred\" AS _id,
+	    -6 AS ord,
+	   COUNT(*) AS read_freq, 
+	   0 AS unread_freq
+	
+	    FROM
+	      entries
+		
+		WHERE
+		  entries.starred_state = 1
+		  AND entries.read_state = 1
+
+   UNION
+
+     SELECT
+       \"my recently starred\" AS _id,
+	   -6 AS ord,
+	   0 AS read_freq, 
+	   COUNT(*) AS unread_freq
+	
+	 FROM
+	   entries
+		
+	 WHERE
+       entries.starred_state = 1
+	   AND entries.read_state &lt; 1
+\n
+
+---\n
+   UNION
+
+     SELECT
+       \"notes\" AS _id,
+	    -8 AS ord,
+	   COUNT(*) AS read_freq, 
+	   0 AS unread_freq
+	
+	    FROM
+	      entries
+		
+		WHERE
+		  entries.type = \"N\"
+		  AND entries.read_state = 1
+
+   UNION
+
+     SELECT
+       \"notes\" AS _id,
+	   -8 AS ord,
+	   0 AS read_freq, 
+	   COUNT(*) AS unread_freq
+	
+	 FROM
+	   entries
+		
+	 WHERE
+	   entries.type = \"N\"
+	   AND entries.read_state &lt; 0
+\n 
+		  )  
+
+   GROUP BY
+     ord,
+     _id;
+
+    </string><string name="sql_mark_as_x_hash">
+UPDATE 
+  entries
+SET
+  -STATE- = -SET-
+WHERE
+  entries.-STATE- = -CLEAR- AND
+  EXISTS(
+  	SELECT
+      1 
+    FROM
+      temp_ids
+    WHERE
+      entries.entry_hash = temp_ids.atom_id
+  )
+  AND -STATE_PENDING- = 0
+</string><string name="sql_query_dashboard_unread_only">
+SELECT
+  _id AS _id,
+  sum_unread_freq AS frequency,
+  sum_unread_freq,
+  ord
+
+FROM
+  dashboard_view
+
+WHERE
+  sum_unread_freq > 0
+    </string><string name="sql_delete_existing_from_temp_table">
+DELETE 
+FROM
+  temp_ids
+WHERE
+  EXISTS(
+  	SELECT
+      1 
+    FROM
+      entries
+    WHERE
+      entries.atom_id = temp_ids.atom_id
+  )
+</string><string name="sql_select_next_hashes_to_fetch">
+SELECT
+  ATOM_ID 
+FROM
+  temp_ids_READ_HASHES
+ORDER BY TIMESTAMP 
+</string><string name="sql_delete_existing_hashes_from_temp_table">
+DELETE 
+FROM
+  temp_ids
+WHERE
+  EXISTS(
+  	SELECT
+      1 
+    FROM
+      entries
+    WHERE
+      entries.entry_hash = temp_ids.atom_id
+  )
+</string><string name="sql_get_ids_to_delete">
+SELECT\n
+  _id\n,
+  atom_id\n
+FROM\n
+  entries\n
+WHERE\n
+  read_state_pending = 0 \n 
+  AND starred_state_pending = 0 \n 
+  AND shared_state_pending = 0 \n
+  AND liked_state_pending = 0 \n
+  AND pinned_state_pending = 0\n
+  AND NOT (note_submitted_state = 0 AND note IS NOT null)\n  
+  -- MARK BEGIN \n
+  AND read_state = 1 \n 
+  -- MARK END \n 
+\n
+ -- Starred Articles\n
+  AND (entries.atom_id NOT IN ( \n
+    SELECT \n
+      e2.atom_id  \n
+    FROM \n
+      entries e2 \n
+    WHERE \n
+      e2.starred_state = 1  \n
+    ORDER BY \n
+      e2.read_state ASC\n,
+      e2.UPDATED_UTC DESC  \n    
+    LIMIT ?1) \n
+\n
+-- Shared Articles\n
+  AND entries.atom_id NOT IN (\n
+    SELECT \n
+      e2.atom_id  \n
+    FROM \n
+      entries e2 \n
+    WHERE \n
+      e2.shared_state = 1  \n
+    ORDER BY \n
+      e2.read_state ASC\n,
+      e2.UPDATED_UTC DESC  \n    
+    LIMIT ?2) \n
+\n    
+-- Notes\n
+  AND entries.atom_id NOT IN (\n
+    SELECT \n
+      e2.atom_id  \n
+    FROM \n
+      entries e2 \n
+    WHERE \n
+      e2.type = \"N\"  \n
+    ORDER BY \n
+      e2.read_state ASC\n,
+      e2.UPDATED_UTC DESC  \n    
+    LIMIT ?3) \n
+
+  AND entries.atom_id NOT IN (\n
+    SELECT \n
+      e2.atom_id  \n
+    FROM \n
+      entries e2 \n
+    ORDER BY \n
+      e2.UPDATED_UTC DESC  \n    
+    LIMIT ?4) \n  
+  )\n
+
+ORDER BY\n
+  READ_STATE DESC\n, -- prefer to delete read over unread over pinned \n
+  UPDATED_UTC ASC\n
+</string><string name="sql_mark_as_read_even_when_pinned">
+UPDATE 
+  entries
+SET
+  read_state = 1
+WHERE
+  entries.read_state = -1 AND
+  NOT EXISTS(
+  	SELECT
+      1 
+    FROM
+      temp_ids
+    WHERE
+      entries.atom_id = temp_ids.atom_id
+  )
+  AND read_state_pending = 0
+</string><string name="sql_mark_as_read_even_when_pinned_hash">
+UPDATE 
+  entries
+SET
+  read_state = 1
+WHERE
+  entries.read_state = -1 AND
+  NOT EXISTS(
+  	SELECT
+      1 
+    FROM
+      temp_ids
+    WHERE
+      entries.entry_hash = temp_ids.atom_id
+  )
+  AND read_state_pending = 0
+</string><string name="sql_mark_as_x">
+UPDATE 
+  entries
+SET
+  -STATE- = -SET-
+WHERE
+  entries.-STATE- = -CLEAR- AND
+  EXISTS(
+  	SELECT
+      1 
+    FROM
+      temp_ids
+    WHERE
+      entries.atom_id = temp_ids.atom_id
+  )
+  AND -STATE_PENDING- = 0
+</string><string name="sql_feeds_query">
+SELECT\n
+  _id,\n
+  -- read-all-mark\n
+  SUM(read_freq+unread_freq) AS frequency,\n
+  -- read-all-mark-end\n
+  -- read-unread-only-mark\n
+  SUM(unread_freq) AS frequency,\n
+  -- read-unread-only-mark-end\n
+  SUM(unread_freq) AS sum_unread_freq,\n
+  ord\n,
+  feed_id\n
+ \n
+FROM(\n
+  SELECT\n
+    \"all articles\" AS _id,\n
+	-100 AS ord,\n
+	COUNT(*) AS read_freq, \n
+	0 AS unread_freq\n,
+	-1 as feed_id\n
+	  \n
+  FROM \n
+    entries\n
+    -- labels-mark\n
+    ,entry_label_associations as elas,\n
+    labels	\n
+    -- labels-mark-end  \n  
+\n
+  WHERE \n
+    entries.read_state = 1\n
+    AND entries.read_state &lt; ?1\n
+    AND entries.starred_state > ?2\n
+    AND entries.friends_shared_state > ?3 \n
+    
+    -- labels-mark\n
+    AND lower(labels.name) = ?4\n
+    AND entries._id = elas.entry_id\n
+	AND elas.label_id = labels._id\n
+    -- labels-mark-end   \n
+\n
+UNION\n
+  
+  SELECT\n
+    \"all articles\" AS _id,\n
+	-100 AS ord,\n
+	0 AS read_freq, \n
+	COUNT(*) AS unread_freq\n,
+	-1 as feed_id\n
+	  \n
+  FROM \n
+    entries\n
+    -- labels-mark\n
+    ,entry_label_associations as elas,\n
+    labels	\n
+    -- labels-mark-end  \n 
+\n
+  WHERE \n
+    entries.read_state &lt; 1\n
+    AND entries.read_state &lt; ?1\n
+    AND entries.starred_state > ?2\n
+    AND entries.friends_shared_state > ?3 \n
+    
+    -- labels-mark\n
+    AND lower(labels.name) = ?4\n
+    AND entries._id = elas.entry_id\n
+	AND elas.label_id = labels._id\n
+    -- labels-mark-end   \n
+\n
+  
+UNION\n
+
+  SELECT  \n
+    lower(feeds.title) AS _id,\n
+    0 AS ord, \n
+	COUNT(*) AS read_freq, \n
+	0 AS unread_freq\n,
+	feeds._id as feed_id\n
+    \n
+  FROM \n
+    entries, \n
+    feeds \n
+    -- labels-mark\n
+    ,entry_label_associations as elas,\n
+    labels	\n
+    -- labels-mark-end   \n
+
+  WHERE \n
+    entries.read_state = 1
+    AND entries.read_state &lt; ?1\n
+    AND feeds._id = entries.feed_id  \n
+    AND entries.starred_state > ?2\n
+    AND entries.friends_shared_state > ?3 \n
+
+    -- labels-mark\n
+ 	AND lower(labels.name) = ?4\n
+    AND entries._id = elas.entry_id\n
+	AND elas.label_id = labels._id\n
+    -- labels-mark-end   \n
+        
+  GROUP BY \n
+    feeds.title,
+    feeds._id
+
+UNION\n
+
+  SELECT  \n
+    lower(feeds.title) AS _id,\n
+    0 AS ord, \n
+	0 AS read_freq, \n
+	COUNT(*) AS unread_freq\n,
+	feeds._id as feed_id\n
+    \n
+  FROM \n
+    entries, \n
+    feeds \n
+    -- labels-mark\n
+    ,entry_label_associations as elas,\n
+    labels	\n
+    -- labels-mark-end   \n
+
+  WHERE \n
+    entries.read_state &lt; 1
+    AND entries.read_state &lt; ?1\n
+    AND feeds._id = entries.feed_id  \n
+    AND entries.starred_state > ?2\n
+    AND entries.friends_shared_state > ?3 \n
+
+    -- labels-mark\n
+ 	AND lower(labels.name) = ?4\n
+    AND entries._id = elas.entry_id\n
+	AND elas.label_id = labels._id\n
+    -- labels-mark-end   \n
+        
+  GROUP BY \n
+    feeds.title, feeds._id)\n
+ \n
+  
+GROUP BY
+  ord,
+  _id,
+  feed_id
+    
+</string><string name="sql_remove_deleted_notes">
+DELETE 
+FROM
+  entries
+WHERE
+  type = \"N\"  \n 
+  AND read_state_pending = 0 \n 
+  AND starred_state_pending = 0 \n 
+  AND shared_state_pending = 0 \n
+  AND pinned_state_pending = 0 \n
+  AND NOT (note_submitted_state = 0 AND note IS NOT null)\n    
+  AND NOT EXISTS(
+  	SELECT
+      1 
+    FROM
+      temp_ids
+    WHERE
+      entries.atom_id = temp_ids.atom_id
+  )
+  AND read_state_pending = 0;
+DELETE
+FROM
+  temp_ids
+</string><string name="sql_create_view">
+CREATE VIEW
+  entries_view
+AS
+  SELECT
+     entries._id AS _id,
+     ENTRY_HASH,
+     STORAGE_LOCATION,
+     entries.ATOM_ID as ATOM_ID,
+     ALTERNATE_URL,
+     CONTENT,
+     CONTENT_TYPE,
+     CONTENT_URL,
+     entries.TITLE AS TITLE,
+     FEED_ID,
+     READ_STATE,
+     READ_STATE_PENDING,
+     STARRED_STATE,
+     STARRED_STATE_PENDING,
+     SHARED_STATE,
+     SHARED_STATE_PENDING,
+     PINNED_STATE_PENDING,
+     FRIENDS_SHARED_STATE,
+     UPDATED_UTC,
+     DOWNLOADED,
+     ERROR,
+     feeds.TITLE as FEED_TITLE, 
+     DOWNLOAD_PREF, 
+     DISPLAY_PREF,
+     feeds.ATOM_ID as FEED_ATOM_ID,
+     AUTHOR,
+     feeds.JS_ENABLED AS JS_ENABLED,
+     SHARED_BY_FRIEND,
+     TYPE,
+     NOTE,
+     NOTE_SUBMITTED_STATE,
+     NOTE_SHOULD_BE_SHARED,
+     feeds.ALT_URL AS FEED_ALTERNATE_URL,
+     LIKED_STATE,
+     LIKED_STATE_PENDING,
+     feeds.FTW_ENABLED AS FTW_ENABLED,
+     SNIPPET
+   FROM
+    feeds,
+    entries
+   WHERE
+	feeds._id = entries.feed_id
+   ORDER BY
+     entries.UPDATED_UTC DESC
+    </string><string name="sql_query_dashboard_all">
+SELECT
+  _id AS _id,
+  sum_freq AS frequency,
+  sum_unread_freq,
+  ord
+
+FROM
+  dashboard_view   
+  
+WHERE
+  frequency > 0
+    </string></file><file path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\values\strings.xml" qualifiers=""><string name="search_label">SEARCH_LABEL</string><string name="show_article">Show Article</string><string name="settings_automatic_refresh_interval_title">Synchronization Interval</string><string name="usage_data_collection_text">GrazeRSS would like to anonymously collect your usage data using flurry.com. This data will help the developer understand how you use GrazeRSS so that he can improve it.\n
+\nThis data collection is strictly opt-in, so if you do not approve no data will be collected. The application will continue to function normally regardless of this setting.\n
+\nCurrently, only general data will be collected: what device you use, your GrazeRSS and Android versions, which country you are in, which GrazeRSS screens you use and how long you use each screen.\n
+\nIn the future, more specific data may be collected, such as which menu options you use most frequently, GrazeRSS configuration information, etc. Before this happens however, this dialog will appear again and ask you again to allow this data to be gathered.\n
+\nAt any time you may open the settings and enable or disable the data collection.\n
+\n<b><u>Tip:</u></b>\n
+\nIt is recommended to enable the usage data collection.\nIf you use GrazeRSS in any unusual way, or use a rare device or Android version, this is your opportunity to make the developer aware of it so that he can better support you.\n
+    </string><string name="download_type_prompt">Select the download preference:</string><string name="license">GrazeRSS License</string><string name="login_error_dialog_title">Login Error"</string><string name="settings_hovering_zoom_controls_enabled_summary">Show Zoom Controls in the embedded browser.</string><string name="settings_keep_shared_title">Shared Articles</string><string name="settings_hovering_buttons_navigation_enabled_summary">Show hovering buttons to flip through the articles.</string><string name="menu_item_mark_all_read">Mark All Read</string><string name="settings_notifications_title">New Articles Notifications</string><string name="login">Login</string><string name="logout_and_clear_cache_dialog_message">Logging out and clearing the local cache of articles headers and bodies.</string><string name="enter_email_password_captcha">
+<b>Login with CAPTCHA needed</b>
+</string><string name="settings_offline">Offline</string><string name="settings_sync_type_summary">What to synchronize and keep locally.</string><string name="newsrob_three_to_six_text">NewsRob kept compatibility with old Android versions for quite some time and to some extent will continue to do so.\n
+    \nHowever this comes at a cost and as meanwhile there are only a few users left who use NewsRob on Android 1.5 - 2.0.1 devices, this cost became harder and harder to justify over the last releases.\n
+    \nTo pick up speed with development the support for the older Android versions will be dropped from the main version of NewsRob.\n
+    \nHowever to make sure that you are still able to install NewsRob and get an update when I discover a very critical bug, a new version of NewsRob is on the Android Market for devices running older versions of the Android OS.\n
+    \nPlease install the new version using the button below.\n
+    \nYou then need to uninstall the current version of NewsRob.\n
+    \nIf you have the Pro version of NewsRob this will also be recognized by the new version.\n
+    \nAlso your per-feed settings will be picked up by the new version, but you need to login again and configure the basic parameters.\n
+    \nThanks! – Waiting for you on the other side.\n
+    </string><string name="logout_and_clear_cache_dialog_title">Logout And Clear Cache</string><string name="settings_service_provider_summary">Service Provider to use for synchronization. Changing this will log you out from the current provider and clear your cache.</string><string name="settings_ui_sort_newest_first_title">Newest On The Top</string><string name="app_description">A multi-platform offline\nnews client for Android</string><string name="dashboard_label">GrazeRSS</string><string name="settings_automatic_refreshing_summary">Enable automatic synchronization.</string><string name="settings_ui_theme_summary">Select the color scheme of GrazeRSS.</string><string name="enable_ftw_for_feed">Image Fit-To-Width enabled</string><string name="fast_synchronization_running_notification_summary">Your changes are uploaded.</string><string name="menu_item_search">Search</string><string name="menu_item_unlike">Unlike</string><string name="settings_global_download_pref_title">Download Content Default</string><string name="settings_local_store_category_title">Local Cache</string><string name="settings_sync_in_progress_summary">Show a notification while a sync is running.</string><string name="show_entry_info">Show Article Info</string><string name="synchronization_running_notification_title">Update Running</string><string name="progressbar_message_loading_content">Loading content ...</string><string name="settings_notify_with_sound_url_summary">Pick a sound to notify of new articles.</string><string name="settings_notify_with_led_enabled_summary">Flash LED to notify of new articles.</string><string name="menu_toggle_theme">Day/Night</string><string name="menu_show_in_browser">Show in Browser</string><string name="menu_show_in_browser_condensed">Browser</string><string name="settings_notifications_enabled_summary">Notifications need to be enabled per feed also.</string><string name="google_account_email_summary">Change by logging out You will be prompted for the new account when refreshing.</string><string name="zoom_out">Zoom out</string><string name="settings_camera_button_controls_read_state_enabled_summary">Camera Button toggles an article between read and unread.</string><string name="dialog_title_mark_all_read">Mark All Articles Read</string><string name="new_version_available_summary">An update of GrazeRSS is available!</string><string name="storage_provider_summary">The storage provider for the downloaded content.</string><string name="enable_javascript_for_feed">JavaScript enabled</string><string name="settings_keep_starred_title">Starred Articles</string><string name="settings_sync_type_title">Synchronization Type</string><string name="ui_theme_summary">Theme</string><string name="google_account_email_title">Service Provider Account</string><string name="menu_settings">Settings</string><string name="menu_clear_cache">Clear Cache</string><string name="storage_asset_download_summary">Download article content including images for offline use.</string><string name="settings_camera_button_controls_read_state_enabled_title">Camera Toggles Read</string><string name="settings_swipe_article_list_title">Swipe To Mark Read</string><string name="settings_ui_sort_newest_first_summary">Default Sort Order in Article List: Newest on the top?</string><string name="settings_automatic_refreshing_category_title">Synchronization</string><string name="explain_fullscreen_toggle_title">Full Screen Mode</string><string name="check_market_for_new_version">A new version of GrazeRSS is available!</string><string name="enable_notification_for_feed">New articles notification</string><string name="settings_swipe_article_detail_view_summary">Swipe L-T-R to mark article read, R-T-L to mark unread.</string><string name="explain_fullscreen_toggle_message"><h2><b><i><u>Tip:</u></i></b></h2>\n\nYou can enter / leave the <pre>full screen mode</pre> by tapping twice in the content area (the article body).\n</string><string name="settings_notify_with_vibration_enabled_summary">Vibrate phone to notify of new articles.</string><string name="dialog_n_articles_will_be_marked_as_read">%s unread articles will be marked as read.</string><string name="menu_item_show_article_info">Show Info (Support Only)</string><string name="license_text">THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\nTHIRD PARTIES MAY BE USING COOKIES, WEB BEACONS OR OTHER MEANS TO COLLECT DATA TO E.G. TARGET ADS.\n\n\n</string><string name="app_name">GrazeRSS</string><string name="settings_capacities">Capacities</string><string name="advise_sdcard_read_only">
+		You selected to store articles and images on an SD card.\n\n
+		Currently there is no accessible SD card available.\n\n
+    	Possible reasons:\n\n
+         - No SD card inserted\n
+         - SD card used as USB mass storage\n
+         - SD card is almost full\n
+         - SD card is read-only\n\n
+        <u>Impact:</u>\n
+        Until the SD card is accessible again GrazeRSS cannot synchronize or display downloaded articles.\n\n
+        <u>Resolution:</u>\n
+        Make the SD card accessible to continue using GrazeRSS or set <i>Storage Provider</i> to <i>Phone Memory</i> in the settings.\n
+    </string><string name="feed_list">Feed List</string><string name="show_google_error_activity_label">Show Server Error</string><string name="display_type_prompt">Select the display preference:</string><string name="ui_mark_all_read_confirmation_threshold_title">Confirm Mark All Read</string><string name="advise_sdcard_read_only_title">SD card inaccessible</string><string name="search_settings_description">Articles</string><string name="settings_hovering_zoom_controls_enabled_title">Hovering Zoom Ctrls</string><string name="menu_item_like">Like</string><string name="ui_theme_title">Theme</string><string name="newsrob_three_to_six">Please Re-Install</string><string name="ui_text_size_title">Text size</string><string name="settings_ui_theme_title">Theme</string><string name="settings_text_reflow_on_zoom_enabled_title">Reflow Text</string><string name="settings_hovering_buttons_navigation_enabled_title">Hovering Buttons Nav</string><string name="settings_webview">Embedded Browser</string><string name="menu_item_manage_feed">Manage Feed</string><string name="settings_display_title">Display</string><string name="settings_volume_control_navigation_enabled_summary">Flip through the articles using the volume controls.</string><string name="settings_sync_in_progress_title">Sync Notification</string><string name="agree">Agree</string><string name="enter_email_password">
+Login to &lt;b>$SERVICE$&lt;/b> needed
+&lt;p>&lt;p>
+GrazeRSS will connect to &lt;b>$SERVICE$&lt;/b>. Therefore your username and password is needed.&lt;p>&lt;p>
+You can decide if your password should be stored on this device.
+Otherwise you will be asked again for your credentials every sync.&lt;p>&lt;p>
+If you haven\'t used &lt;b>$SERVICE$&lt;/b> before, please visit $SERVICE_URL$ and set up an account. 
+	</string><string name="settings_service_provider_title">Service Provider</string><string name="settings_swipe_article_list_summary">Swipe L-T-R to mark article read, R-T-L to mark unread.</string><string name="settings_entry_manager_entries_capacity_summary">Number of articles that
+	are to be synced and kept locally.</string><string name="fast_synchronization_running_notification_title">Uploading Changes</string><string name="menu_item_share_in_reader">Share in Reader</string><string name="article_list_label">Articles</string><string name="settings_automatic_refreshing_title">Auto Synchronization</string><string name="settings_notify_with_sound_url_title">Play Sound</string><string name="settings_vibrate_first_last_enabled_title">Vibrate on first/last article</string><string name="menu_item_share_link">Share Link</string><string name="settings_notify_with_vibration_enabled_title">Vibration</string><string name="settings_always_use_ssl_summary">Not only for login, but for all communications with the server. Not for the websites though.</string><string name="menu_item_star">Star</string><string name="email">UserID</string><string name="settings_article_detail_view">Article Detail View</string><string name="settings_ui_title">User Interface</string><string name="settings_global_download_pref_summary">This default can be overwritten on a per feed basis.</string><string name="storage_provider_title">Storage Provider</string><string name="settings_volume_control_navigation_enabled_title">Volume Up/Down Nav</string><string name="clear_cache_dialog_message">Clearing the local cache of articles headers and bodies.</string><string name="menu_refresh">Refresh</string><string name="settings_title">Settings</string><string name="storage_asset_download_title">Offline Use</string><string name="feed_list_label">Feeds</string><string name="settings_keep_notes_summary">Additional notes to be synced and kept locally.</string><string name="shared">shared</string><string name="settings_vibrate_first_last_enabled_summary">When navigating with vol up/down, vibrate when there are no more articles</string><string name="no_articles">No articles yet.\n\nSync to load content.</string><string name="menu_logout">Logout And Clear Cache</string><string name="menu_mark_as_unread">Mark Unread</string><string name="settings_always_use_ssl_title">Always use SSL</string><string name="ui_text_size_summary">Default text size in the browser</string><string name="article_list">Article List</string><string name="settings_automatic_refresh_interval_summary">How often should GrazeRSS sync and download content?</string><string name="clear_cache_dialog_title">Clear Cache</string><string name="new_version_available_title">Update available</string><string name="settings_entry_manager_entries_capacity_title">Reading List</string><string name="settings_swipe_article_detail_view_title">Swipe To Mark Read</string><string name="reject">Reject</string><string name="enter_email_password_expired">
+<b>Login needed</b>
+\n\n
+Your session expired and you need to login again!\n\n
+You can decide if your password should be stored on this device.
+Otherwise you will be asked again for your credentials every two weeks.
+	</string><string name="settings_lists">Article List</string><string name="settings_notifications_enabled_title">Status Bar Notifications</string><string name="menu_item_share_with_note">Share With Note</string><string name="google_account">Service Provider Account</string><string name="settings_keep_shared_summary">Additional shared articles to be synced and kept locally.</string><string name="login_error_dialog_message">There has been a problem while logging you in.\n\n</string><string name="zoom_in">Zoom in</string><string name="settings_sync_notifications">Sync Notifications</string><string name="menu_faq">FAQ</string><string name="usage_data_collection">Usage Data Collection</string><string name="oom_message"><b>Sorry!</b>\n\nThere was not enough memory to complete the operation.\n\nYou already closed the app (force closed), now press OK and GrazeRSS will be restarted. Please try again then what you just did.\nIt should work now.\n\nSorry for the inconvenience.\n\nIf this should happen on a regular basis and you can reproduce it, I would like to hear about it: travis@tabbal.net.\n</string><string name="progressbar_message_refreshing">Synchronizing ...</string><string name="google_error_label">The server has sent a response that GrazeRSS
+		cannot parse (yet).</string><string name="synchronization_running_notification_summary">An update is running.</string><string name="password">Password</string><string name="settings_text_reflow_on_zoom_enabled_summary">Reflow text when zooming the article.</string><string name="login_to_google_needed">"Login needed."</string><string name="synchronization_is_scheduled">Next synchronization\n starts in three minutes.
+	</string><string name="settings_notify_with_led_enabled_title">Flash LED</string><string name="settings_keep_starred_summary">Additional starred articles to be synced and kept locally.</string><string name="menu_cancel">Cancel</string><string name="settings_keep_notes_title">Notes</string><string name="menu_item_unstar">Unstar</string><string name="ui_mark_all_read_confirmation_threshold_summary">Ask when >= x articles would be marked as read.</string><string name="menu_mark_as_read">Mark Read</string><string name="menu_item_unshare_in_reader">Unshare in Reader</string></file><file path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\values\theme.xml" qualifiers=""><style name="Theme.NewsRob_Dark_Normal" parent="@android:style/Theme.Black">
+      <item name="com.grazerss:startColor">#789</item>
+      <item name="com.grazerss:endColor">#0ab</item>
+      <item name="com.grazerss:lightTextColor">#999</item>
+      <item name="com.grazerss:articleHeaderTextColor">#999</item>
+      <item name="com.grazerss:articleSnippetTextColor">#777</item>
+      <item name="com.grazerss:feedTitleTextColor">#777</item>
+      <item name="com.grazerss:sharedByTextColor">#777</item>
+      <item name="webViewBackgroundColorLight">#bbb</item>
+      <item name="com.grazerss:dividerColor">#333</item>
+      <item name="com.grazerss:controlPanelDividerColor">#999</item>
+      <item name="com.grazerss:controlPanelBottomDividerColor">#0999</item>
+      <item name="com.grazerss:countBackground">@com.grazerss:drawable/count_background_dark</item>
+    </style><style name="TitleBarText" parent="@android:style/TextAppearance.Medium">
+      <item name="android:layout_width">0dp</item>
+      <item name="android:layout_height">fill_parent</item>
+      <item name="android:layout_weight">0</item>
+      <item name="android:gravity">center_vertical</item>
+      <item name="android:paddingLeft">8dp</item>
+      <item name="android:paddingRight">8dp</item>
+      <item name="android:textStyle">bold</item>
+      <item name="android:singleLine">true</item>
+      <item name="android:ellipsize">end</item>
+    </style><style name="Theme.NoBackground" parent="@android:style/Theme.Light">
+        <item name="android:windowBackground">@null</item>
+    </style><style name="ControlPanelSeparator">
+      <item name="android:layout_width">fill_parent</item>
+      <item name="android:layout_height">1px</item>
+      <item name="android:background">?com.grazerss:controlPanelBottomDividerColor</item> <!--  TODO  -->
+    </style><style name="TitleBar">
+      <item name="android:id">@id/title_container</item>
+      <item name="android:layout_width">fill_parent</item>
+      <item name="android:orientation">horizontal</item>
+    </style><style name="TitleBarSeparator">
+      <item name="android:layout_width">1px</item>
+      <item name="android:layout_height">fill_parent</item>
+      <item name="android:background">?com.grazerss:controlPanelDividerColor</item> <!--  TODO  -->
+    </style><style name="TitleBarAction">
+      <item name="android:paddingTop">2dp</item>
+      <item name="android:paddingBottom">2dp</item>
+      <item name="android:paddingRight">3dp</item>
+      <item name="android:paddingLeft">3dp</item>
+      
+      <item name="android:layout_weight">0</item>
+      <item name="android:background">@drawable/title_button</item>
+    </style><style name="Theme.NewsRob_Light_Normal" parent="@android:style/Theme.Light">
+      <item name="com.grazerss:startColor">#123</item>
+      <item name="com.grazerss:endColor">#456</item>
+      <item name="com.grazerss:lightTextColor">#fff</item>
+      <item name="com.grazerss:articleHeaderTextColor">#333</item>
+      <item name="com.grazerss:articleSnippetTextColor">#777</item>
+      <item name="com.grazerss:feedTitleTextColor">#777</item>
+      <item name="com.grazerss:sharedByTextColor">#777</item>
+      <item name="com.grazerss:dividerColor">#bbb</item>
+      <item name="com.grazerss:controlPanelDividerColor">#bbb</item>
+      <item name="com.grazerss:controlPanelBottomDividerColor">#0f00</item>
+      <item name="webViewBackgroundColorLight">#fff</item>
+      <item name="com.grazerss:countBackground">@com.grazerss:drawable/count_background</item>
+    </style></file><file path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\values-large-v11\dimens.xml" qualifiers="large-v11"><dimen name="article_list_feed_title">15dp</dimen><dimen name="article_list_title">18dp</dimen><dimen name="article_list_snippet">14dp</dimen></file><file path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\values-xlarge-v11\dimens.xml" qualifiers="xlarge-v11"><dimen name="article_list_feed_title">17dp</dimen><dimen name="article_list_title">20dp</dimen><dimen name="article_list_snippet">16dp</dimen></file><file name="searchable" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\xml\searchable.xml" qualifiers="" type="xml"/><file name="settings" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\xml\settings.xml" qualifiers="" type="xml"/><file name="unread_widget" path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\main\res\xml\unread_widget.xml" qualifiers="" type="xml"/></source><source path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\build\generated\res\rs\debug"/><source path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\CThorentz\Documents\StudioProjects\GrazeRSS\app\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="com.grazerss.List"><attr format="color" name="lightTextColor"/><attr format="color" name="webViewBackgroundColorLight"/><attr format="color" name="articleHeaderTextColor"/><attr format="color" name="articleSnippetTextColor"/><attr format="color" name="sharedByTextColor"/><attr format="color" name="feedTitleTextColor"/><attr format="color" name="controlPanelDividerColor"/><attr format="color" name="controlPanelBottomDividerColor"/><attr format="color" name="dividerColor"/><attr format="reference|color" name="countBackground"/></declare-styleable><declare-styleable name="com.grazerss.Preference"><attr format="string" name="x"/></declare-styleable><declare-styleable name="com.admob.android.ads.AdView"><attr format="boolean" name="testing"/><attr format="color" name="backgroundColor"/><attr format="color" name="textColor"/><attr format="string" name="keywords"/><attr format="integer" name="refreshInterval"/><attr format="boolean" name="isGoneWithoutAd"/></declare-styleable><declare-styleable name="com.grazerss.Gradient"><attr format="color" name="startColor"/><attr format="color" name="endColor"/></declare-styleable></configuration></mergedItems></merger>

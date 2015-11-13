@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:drawable="@drawable/count_background"/>
+  <item android:drawable="@android:drawable/list_selector_background"/>
+</layer-list><!-- From: file:/C:/Users/CThorentz/Documents/StudioProjects/GrazeRSS/app/src/main/res/drawable/count_list_item.xml -->
